@@ -16,7 +16,8 @@ The final value stored in `result` should be:
 
 ## Flowchart
 
-![Flowchart](flowchart.png)
+<img width="478" height="707" alt="Screenshot 2026-06-28 231205" src="https://github.com/user-attachments/assets/9bd1abad-718a-4d36-a296-0b506fd59887" />
+
 
 ## Challenges Encountered
 
