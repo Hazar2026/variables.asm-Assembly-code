@@ -16,8 +16,7 @@ The final value stored in `result` should be:
 
 ## Flowchart
 
-<img width="477" height="707" alt="image" src="https://github.com/user-attachments/assets/963cae73-1487-4ad4-91e8-ab7965175565" />
-
+![Flowchart](flowchart.png)
 
 ## Challenges Encountered
 
@@ -70,4 +69,4 @@ The value of `result` should be:
 
 ## Conclusion
 
-This activity helped me understand how variables are declared in Assembly language, how values are loaded into registers, how addition is performed, and how the result is stored in memory.
+This activity helped me understand how variables are declared in Assembly language, how values are loaded into registers, how addition is performed, and how the result is stored back into memory.
